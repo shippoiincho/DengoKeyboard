@@ -1,7 +1,7 @@
 # DengoKeyboard
 
-![converter outer](dengo1.png)
-![converter inner](dengo2.png)
+![converter outer](dengo1.jpg)
+![converter inner](dengo2.jpg)
 
 PlayStation 用、初代電車でGo! コントローラ(ツーハンドル)で JR 東日本トレインシミュレーターをプレイするための変換機です。
 Arduino Microのような ATmega32U4 を使ったArduino (+互換機)で動作します。<br>
